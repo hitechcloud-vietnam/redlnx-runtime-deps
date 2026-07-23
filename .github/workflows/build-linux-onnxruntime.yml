@@ -1,4 +1,4 @@
-name: Build Linux ONNX Runtime Providers
+name: Build Linux ONNX Runtime Providers 
 
 on:
   workflow_dispatch:
